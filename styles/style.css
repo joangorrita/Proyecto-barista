@@ -9,15 +9,20 @@
     font-family: 'Kanit', sans-serif;
 }
 
+.bod{
+    background-color: #E9E9E9;
+    
+}
+
 .hero{
 
     background-image: url("../imagenes/grano.JPG");
     height: 100vh;
 }
 
-.bombon{
-    height: 20vh;
-    width: 100%;
+.flor{
+    height: 20px;
+    width: 100px;
     border-radius: 20%;
 }
 

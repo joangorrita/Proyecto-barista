@@ -19,7 +19,12 @@
     background-image: url("../imagenes/grano2.JPG");
     height: 100vh;
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+
 
 .flor{
     height: 20px;
